@@ -44,7 +44,21 @@ streamlit run app.py
 - Happy
 
 - Neutral
+  
+- Surprise
 
 - Sad
+## **Technologies Used**
+
+- Python for scripting
+
+- Streamlit for UI
+
+- OpenCV for video processing
+
+- FER for facial emotion detection
+
+- Pillow for image processing
+
 
 - Surprise
